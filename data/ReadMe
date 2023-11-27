@@ -1,1 +1,13 @@
+Neural Network Olden values:
+Necessary Re-scaled Olden (RSO) importance values from the unique training iterations of neural networks run on 
+extirpation/persistence data from the historical (1972/1973) and contemporary (2017/2018) sampling periods. 
 
+na_OldenEvansIsaacs_allbees_1000iter.csv - Used to make Figure 3
+
+na_polyC_OldenImp_1000rep.csv
+na_polyG_OldenImp_1000rep.csv
+na_oliG_OldenImp_1000rep.csv
+na_clepto_OldenImp_1000rep.csv
+Used to make figures S9-S13 in the Supplementary Results. 
+
+Code to use these data is located in the NNscript_analysis_plots_github.R script. 
