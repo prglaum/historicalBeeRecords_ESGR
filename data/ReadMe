@@ -1,6 +1,10 @@
-Neural Network Olden values:
-Necessary Re-scaled Olden (RSO) importance values from the unique training iterations of neural networks run on 
-extirpation/persistence data from the historical (1972/1973) and contemporary (2017/2018) sampling periods. 
+ESGR_samples_EvansIsaacs_withTraits.csv (Fig S14-S17)
+Sampled specimen data from the Evans historical (1972/1973) and Isaacs contemporary (2017/2018) sampling periods with species trait data attached to each individual specimen. 
+
+Neural Network Olden values (Fig 3 & Fig S9-S13):
+Necessary Re-scaled Olden (RSO) importance values from the unique training iterations of neural networks trained on North
+American trait variables and extirpation/persistence data from the historical (1972/1973) and contemporary (2017/2018) 
+sampling periods. 
 
 na_OldenEvansIsaacs_allbees_1000iter.csv - Used to make Figure 3
 
