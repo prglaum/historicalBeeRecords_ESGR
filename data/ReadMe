@@ -1,5 +1,10 @@
+AllVettedVeganESGR.csv (Fig 1)
+Sampled specimen data from the Evans historical (1972/1973) and Isaacs contemporary (2017/2018) sampling periods in the n
+necessary format to rarify species richness using the vegan package in R.
+
 ESGR_samples_EvansIsaacs_withTraits.csv (Fig S14-S17)
-Sampled specimen data from the Evans historical (1972/1973) and Isaacs contemporary (2017/2018) sampling periods with species trait data attached to each individual specimen. 
+Sampled specimen data from the Evans historical (1972/1973) and Isaacs contemporary (2017/2018) sampling periods with 
+species trait data attached to each individual specimen. 
 
 Neural Network Olden values (Fig 3 & Fig S9-S13):
 Necessary Re-scaled Olden (RSO) importance values from the unique training iterations of neural networks trained on North
