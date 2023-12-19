@@ -1,6 +1,10 @@
 AllVettedVeganESGR.csv (Fig 1)
-Sampled specimen data from the Evans historical (1972/1973) and Isaacs contemporary (2017/2018) sampling periods in the n
+Sampled specimen data from the Evans historical (1972/1973) and Isaacs contemporary (2017/2018) sampling periods in the 
 necessary format to rarify species richness using the vegan package in R.
+
+Grahametal2023_BeeTraits.xlsx (all figures describing species traits)
+Species taxonomic information, natural/life history traits, physiological traits, geographic distribution, etc. 
+The first tab describes each trait, the second tab houses trait data per species. 
 
 ESGR_samples_EvansIsaacs_withTraits.csv (Fig S14-S17)
 Sampled specimen data from the Evans historical (1972/1973) and Isaacs contemporary (2017/2018) sampling periods with 
