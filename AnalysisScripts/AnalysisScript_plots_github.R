@@ -259,7 +259,7 @@ ggplot(data=SocSurvive,aes(y=persist,x=factor(soc,level=c("solitary","eusocial",
   geom_bar(stat="identity",position='dodge') + theme_bw() + theme(text = element_text(size=20)) +
   labs(x = "", y = "Percent of persistent species") + ylim(0,1)
 
-## Fig 4e
+## Fig 4f
 dfSoc=wtraits %>%
   group_by(bin) %>%
   count(Sociality) %>%
