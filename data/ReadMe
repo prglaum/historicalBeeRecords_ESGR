@@ -24,3 +24,9 @@ na_clepto_OldenImp_1000rep.csv
 Used to make figures S9-S13 in the Supplementary Results. 
 
 Code to use the Olden data is located in the NNscript_analysis_plots_github.R script. 
+
+RawGBIFdata_final.csv - File containing the raw dated georefenced data from GBIF. See citation below:
+GBIF Occurrence Download https://doi.org/10.15468/dl.ta4zxp 
+Accessed from R via rgbif (https://github.com/ropensci/rgbif) on 2023-04-26
+Data was used to create phenology and geospatial profiles per bees species. Due to the large size, the actual file is available
+on Ag Data Commons. 
