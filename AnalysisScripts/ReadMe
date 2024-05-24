@@ -1,1 +1,3 @@
-
+We recommend reviewing NNscript_analysis_plots_github.R before investigating code/analysis presented in either the
+phylogeneticAutocorrelation.R script the or commonBees.R script. This is because both of these later scripts utilize 
+analysis techniques introduced in the NNscript_analysis_plots_github.R script. 
