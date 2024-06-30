@@ -29,10 +29,10 @@ library(nnet) # for creating, training, and using neural networks
 library(NeuralNetTools) # for analyzing networks w/ Olden analysis
 
 ## Load our species traits file:
-traits=read_excel("C:/Users/prglaum/Documents/Pollinators-Empirical/CCmanuscript/pubAttempt2/githubCode/Grahametal2023_BeeTraits.xlsx",sheet="TraitData",na = "NA")
+traits=read_excel("~/Grahametal2023_BeeTraits.xlsx",sheet="TraitData",na = "NA")
 
 ## Load in nwk file of Max. Likelihood tree from http://beetreeoflife.org/ based on our Evans' species list:
-beeTree=read.tree("C:/Users/prglaum/Documents/Pollinators-Empirical/CCmanuscript/pubAttempt2/Revisions_R1/ML_nwk_version.txt")
+beeTree=read.tree("~/ML_nwk_version.txt")
 ## See http://beetreeoflife.org/ for more on creating species-specific prunedphylogenies from their global phylogeny.
 
 
