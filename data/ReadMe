@@ -15,6 +15,12 @@ Necessary Re-scaled Olden (RSO) importance values from the unique training itera
 American trait variables and extirpation/persistence data from the historical (1972/1973) and contemporary (2017/2018) 
 sampling periods. 
 
+ML_nwk_version.txt:
+Bee phylogeny used in analysis of phylogenetic autocorrelation. Phylogeny can be sourced:
+Henríquez-Piskulich P, Hugall AF, Stuart-Fox D. 2024 A supermatrix phylogeny of the world’s bees (Hymenoptera: Anthophila). 
+Mol. Phylogenet. Evol. 190, 107963. (doi:10.1016/J.YMPEV.2023.107963) 
+OR at: http://beetreeoflife.org/
+
 na_OldenEvansIsaacs_allbees_1000iter.csv - Used to make Figure 3
 
 na_polyC_OldenImp_1000rep.csv
