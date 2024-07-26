@@ -1,19 +1,16 @@
-AllVettedVeganESGR.csv (Fig 1)
+Data used in analysis and figure creation for Graham et al 2024:
+
+AllVettedVeganESGR.csv (Fig S11)
 Sampled specimen data from the Evans historical (1972/1973) and Isaacs contemporary (2017/2018) sampling periods in the 
 necessary format to rarify species richness using the vegan package in R.
+
+ESGR_samples_EvansIsaacs_withTraits.csv (Fig S22-S24)
+Sampled specimen data from the Evans historical (1972/1973) and Isaacs contemporary (2017/2018) sampling periods with 
+species trait data attached to each individual specimen. 
 
 Grahametal2023_BeeTraits.xlsx (all figures describing species traits)
 Species taxonomic information, natural/life history traits, physiological traits, geographic distribution, etc. 
 The first tab describes each trait, the second tab houses trait data per species. 
-
-ESGR_samples_EvansIsaacs_withTraits.csv (Fig S14-S17)
-Sampled specimen data from the Evans historical (1972/1973) and Isaacs contemporary (2017/2018) sampling periods with 
-species trait data attached to each individual specimen. 
-
-Neural Network Olden values (Fig 3 & Fig S9-S13):
-Necessary Re-scaled Olden (RSO) importance values from the unique training iterations of neural networks trained on North
-American trait variables and extirpation/persistence data from the historical (1972/1973) and contemporary (2017/2018) 
-sampling periods. 
 
 ML_nwk_version.txt:
 Bee phylogeny used in analysis of phylogenetic autocorrelation. Phylogeny can be sourced:
@@ -21,14 +18,17 @@ Henríquez-Piskulich P, Hugall AF, Stuart-Fox D. 2024 A supermatrix phylogeny of
 Mol. Phylogenet. Evol. 190, 107963. (doi:10.1016/J.YMPEV.2023.107963) 
 OR at: http://beetreeoflife.org/
 
-na_OldenEvansIsaacs_allbees_1000iter.csv - Used to make Figure 3
+Neural Network Olden values (Fig 2 & Figs S15,S17,S18,S19):
+Necessary Re-scaled Olden (RSO) importance values from the unique training iterations of neural networks trained on North
+American trait variables and extirpation/persistence data from the historical (1972/1973) and contemporary (2017/2018) 
+sampling periods. 
 
+na_OldenEvansIsaacs_allbees_1000iter.csv - Used to make Figure 2
 na_polyC_OldenImp_1000rep.csv
 na_polyG_OldenImp_1000rep.csv
 na_oliG_OldenImp_1000rep.csv
 na_clepto_OldenImp_1000rep.csv
-Used to make figures S9-S13 in the Supplementary Results. 
-
+Used to make figures S15,S17,S18,S19 in the Supplementary Results. 
 Code to use the Olden data is located in the NNscript_analysis_plots_github.R script. 
 
 RawGBIFdata_final.csv - File containing the raw dated georefenced data from GBIF. See citation below:
