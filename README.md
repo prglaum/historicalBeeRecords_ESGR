@@ -40,7 +40,7 @@ species trait data attached to each individual specimen. This file is also avail
 
 Grahametal2023_BeeTraits.xlsx (all figures describing species traits)
 Species taxonomic information, natural/life history traits, physiological traits, geographic distribution, etc. 
-The first tab describes each trait, the second tab houses trait data per species. Bee Trait data is also availale on the Ag Data Commons: https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_A_century_of_wild_bee_sampling_historical_data_and_neural_network_analysis_reveal_ecological_traits_associated_with_species_loss_/25233991
+The first tab describes each trait, the second tab houses trait data per species. Bee Trait data is also availale as Table S2 as Supplementary Material and on the Ag Data Commons: https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_A_century_of_wild_bee_sampling_historical_data_and_neural_network_analysis_reveal_ecological_traits_associated_with_species_loss_/25233991
 
 ML_nwk_version.txt:
 Bee phylogeny used in analysis of phylogenetic autocorrelation. Phylogeny can be sourced:
