@@ -36,7 +36,7 @@ necessary format to rarify species richness using the vegan package in R.
 
 ESGR_samples_EvansIsaacs_withTraits.csv (Fig S22-S24)
 Sampled specimen data from the Evans historical (1972/1973) and Isaacs contemporary (2017/2018) sampling periods with 
-species trait data attached to each individual specimen. 
+species trait data attached to each individual specimen. This file is also availale on the Ag Data Commons: https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_A_century_of_wild_bee_sampling_historical_data_and_neural_network_analysis_reveal_ecological_traits_associated_with_species_loss_/25233991
 
 Grahametal2023_BeeTraits.xlsx (all figures describing species traits)
 Species taxonomic information, natural/life history traits, physiological traits, geographic distribution, etc. 
@@ -65,4 +65,4 @@ Code to use the Olden data is located in the NNscript_analysis_plots_github.R sc
 RawGBIFdata_final.csv - File containing the raw dated georefenced data from GBIF. See citation below:
 GBIF Occurrence Download https://doi.org/10.15468/dl.ta4zxp 
 Accessed from R via rgbif (https://github.com/ropensci/rgbif) on 2023-04-26
-Data was used to create phenology and geospatial profiles per bees species. Due to the large size, the actual file is available on Ag Data Commons: https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_A_century_of_wild_bee_sampling_historical_data_and_neural_network_analysis_reveal_ecological_traits_associated_with_species_loss_/25233991
+Data was used to create phenology and geospatial profiles per bees species. Due to the large size and licensing issues between GBIF and Dryad, this file is NOT uploaded here. The actual file is available on Ag Data Commons: https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_A_century_of_wild_bee_sampling_historical_data_and_neural_network_analysis_reveal_ecological_traits_associated_with_species_loss_/25233991
