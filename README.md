@@ -5,6 +5,9 @@ Analysis of historical bee community sampling in the E.S. George Reserve: an eco
 
 2 - Data used in the analysis of Graham et al 2024
 
+Further info at available at https://github.com/prglaum/historicalBeeRecords_ESGR & 
+https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_A_century_of_wild_bee_sampling_historical_data_and_neural_network_analysis_reveal_ecological_traits_associated_with_species_loss_/25233991
+
 
 # R scripts used in the analysis of Graham et al 2024:
 All R scripts are commented with detailed instructions. 
@@ -51,10 +54,11 @@ American trait variables and extirpation/persistence data from the historical (1
 sampling periods. 
 
 na_OldenEvansIsaacs_allbees_1000iter.csv - Used to make Figure 2
-na_polyC_OldenImp_1000rep.csv
-na_polyG_OldenImp_1000rep.csv
-na_oliG_OldenImp_1000rep.csv
-na_clepto_OldenImp_1000rep.csv
+
+na_polyC_OldenImp_1000rep.csv ; 
+na_polyG_OldenImp_1000rep.csv ; 
+na_oliG_OldenImp_1000rep.csv ; 
+na_clepto_OldenImp_1000rep.csv ; 
 Used to make figures S15,S17,S18,S19 in the Supplementary Results. 
 Code to use the Olden data is located in the NNscript_analysis_plots_github.R script. 
 
