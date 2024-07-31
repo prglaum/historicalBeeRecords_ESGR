@@ -62,11 +62,11 @@ sampling periods. <br>
 - rel_imp: Value for the Garson importance, an importance metric without direction only weight of predictive power. 
 
 **Neural Network Olden Files:** <br>
-- na_OldenEvansIsaacs_allbees_1000iter.csv - Used in NNscripts_analysis_plots script to make Figure 2 <br>
-- na_polyC_OldenImp_1000rep.csv - Used in NNscript_analysis_plots script to make Fig S15 <br>
-- na_polyG_OldenImp_1000rep.csv - Used in NNscript_analysis_plots script to make Fig S16 <br>
-- na_oliG_OldenImp_1000rep.csv - Used in NNscript_analysis_plots script to make Fig S18 <br>
-- na_clepto_OldenImp_1000rep.csv - Used in NNscript_analysis_plots script to make Fig S19 <br>
+- na_OldenEvansIsaacs_allbees_1000iter.csv - Olden data from neural networks trained on all bee data in extirpation analysis between 1972/1973 & 2017/2018. Used in NNscripts_analysis_plots script to make Figure 2. <br>
+- na_polyC_OldenImp_1000rep.csv - Olden data from neural networks trained on polylectic cavity nesting bee data in extirpation analysis between 1972/1973 & 2017/2018. Used in NNscript_analysis_plots script to make Fig S15. <br>
+- na_polyG_OldenImp_1000rep.csv - Olden data from neural networks trained on polylectic ground nesting bee data in extirpation analysis between 1972/1973 & 2017/2018. Used in NNscript_analysis_plots script to make Fig S16. <br>
+- na_oliG_OldenImp_1000rep.csv - Olden data from neural networks trained on oligolectic ground nesting bee data in extirpation analysis between 1972/1973 & 2017/2018. Used in NNscript_analysis_plots script to make Fig S18. <br>
+- na_clepto_OldenImp_1000rep.csv - Olden data from neural networks trained on kleptoparasitic bee data in extirpation analysis between 1972/1973 & 2017/2018. Used in NNscript_analysis_plots script to make Fig S19. <br>
 
 #### RawGBIFdata_final.csv - File containing the raw dated georefenced data from GBIF. See citation below:
 GBIF Occurrence Download https://doi.org/10.15468/dl.ta4zxp 
